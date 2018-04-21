@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\CaculatorLauncher\CaculatorLauncher\bin\Debug\CaculatorLauncher.exe.config
+C:\Users\User\source\repos\CaculatorLauncher\CaculatorLauncher\bin\Debug\CaculatorLauncher.exe
+C:\Users\User\source\repos\CaculatorLauncher\CaculatorLauncher\bin\Debug\CaculatorLauncher.pdb
+C:\Users\User\source\repos\CaculatorLauncher\CaculatorLauncher\bin\Debug\CaculatorLauncher.xml
+C:\Users\User\source\repos\CaculatorLauncher\CaculatorLauncher\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\User\source\repos\CaculatorLauncher\CaculatorLauncher\obj\Debug\CaculatorLauncher.vbprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\CaculatorLauncher\CaculatorLauncher\obj\Debug\CaculatorLauncher.Form1.resources
+C:\Users\User\source\repos\CaculatorLauncher\CaculatorLauncher\obj\Debug\CaculatorLauncher.Resources.resources
+C:\Users\User\source\repos\CaculatorLauncher\CaculatorLauncher\obj\Debug\CaculatorLauncher.vbproj.GenerateResource.Cache
+C:\Users\User\source\repos\CaculatorLauncher\CaculatorLauncher\obj\Debug\CaculatorLauncher.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CaculatorLauncher\CaculatorLauncher\obj\Debug\CaculatorLauncher.exe
+C:\Users\User\source\repos\CaculatorLauncher\CaculatorLauncher\obj\Debug\CaculatorLauncher.xml
+C:\Users\User\source\repos\CaculatorLauncher\CaculatorLauncher\obj\Debug\CaculatorLauncher.pdb
